@@ -1,15 +1,17 @@
-Canvas LMS
-======
+# dCC LMS
 
-Canvas is a modern, open-source [LMS](https://en.wikipedia.org/wiki/Learning_management_system)
-developed and maintained by [Instructure Inc.](https://www.instructure.com/) It is released under the
-AGPLv3 license for use by anyone interested in learning more about or using
-learning management systems.
+This is a fork of the Instructure Canvas LMS custom fitted for devCodeCamp. The fork will be up-to-date with the original with the exception of three branches.
 
-[Please see our main wiki page for more information](http://github.com/instructure/canvas-lms/wiki)
+### sandbox
+The sandbox branch is where the incoming updates from Instructure will meet the existing modifications of the dCC fork.
 
-Installation
-=======
+### dcc-dev
+This is the dCC dev branch which pulls from sandbox once conflicts are reconciled.
+
+### dcc-deploy
+This is the production branch for the dCC LMS, pulled from working, tested versions of dcc-dev.
+
+# Instructure Installation
 
 Detailed instructions for installation and configuration of Canvas are provided
 on our wiki.
