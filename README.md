@@ -1,4 +1,4 @@
-# DCC LMS
+# dCC LMS
 =====
 
 This is a fork of the Instructure Canvas LMS custom fitted for devCodeCamp. The fork will be up-to-date with the original with the exception of three branches.
