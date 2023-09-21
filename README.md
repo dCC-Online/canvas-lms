@@ -7,10 +7,10 @@ This is a fork of the Instructure Canvas LMS custom fitted for devCodeCamp. The 
 The sandbox branch is where the incoming updates from Instructure will meet the existing modifications of the dCC fork.
 
 ## dcc-dev
-This is the dCC dev branch.
+This is the dCC dev branch which pulls from sandbox once conflicts are reconciled.
 
 ## dcc-deploy
-This is the production branch for the dCC LMS.
+This is the production branch for the dCC LMS, pulled from working, tested versions of dcc-dev.
 
 Canvas LMS
 ======
