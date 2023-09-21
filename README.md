@@ -8,7 +8,7 @@ The sandbox branch is where the incoming updates from Instructure will meet the 
 ### dcc-dev
 This is the dCC dev branch which pulls from sandbox once conflicts are reconciled.
 
-### dcc-deploy
+### dcc-main
 This is the production branch for the dCC LMS, pulled from working, tested versions of dcc-dev.
 
 # Instructure Installation
